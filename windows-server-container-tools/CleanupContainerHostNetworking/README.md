@@ -1,4 +1,4 @@
-# WindowsContainerNetworking-LoggingAndCleanupAide.ps1 - README
+# WindowsContainerNetworking-LoggingAndCleanupAide.ps1 - README(Need to Import modeule ServerManager first)
 ## Basic Logs: Capture container host state for troubleshooting
 To capture basic logs\* to assist with container network troubleshooting, run this script *without any arguments*: 
 ```
